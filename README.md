@@ -26,6 +26,7 @@ I bridge the gap between low-level hardware control and scalable data architectu
 ## 🛠️ Technical Tech Stack
 ⚡ Embedded Systems & Automation
 `C` `C++` `STM32` `ESP32` `FreeRTOS` `MicroPython` `HIL Testing` `CAN / I2C / SPI Protocols` `MATLAB / Simulink`
+
 📊 Data Engineering & Software
 `Python` `SQL` `Pandas` `Docker` `Linux` `Git / GitHub`
 
